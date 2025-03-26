@@ -22,7 +22,8 @@ UK, Germany and Italy. The aim of analysis is to provide information about curre
 future directions of the field. 
 
 
-**Working with the repository**
+**Working with the repository:**
+
 Reposity containts  dataset, notebook script and plots. Each script can be executed independently on a prefered notebook app (vscode, jupiterlab, colab). (note*In my experience codes executed faster in jupiter lab 
 rather that on google colab). Python script is intended for macOS, using  Python 3.13 version , Noteboo files are orginized as follows:
 
